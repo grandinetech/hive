@@ -100,7 +100,6 @@ RUST_LOG=$LOG RUST_BACKTRACE=1 grandine \
 	--features LogBlockProcessingTime \
 	--features PatchHttpContentType \
 	--features ServeCostlyEndpoints \
-	--features ServeEffectfulEndpoints \
 	--features ServeLeakyEndpoints \
 	--features DebugEth1 \
 	--features DebugP2p \
